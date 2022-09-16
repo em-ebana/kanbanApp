@@ -1,0 +1,7 @@
+.container{
+  flex-basis: 40%;
+  margin: 1em;
+}
+h2{
+  text-align: center;
+}
